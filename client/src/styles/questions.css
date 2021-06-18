@@ -1,0 +1,76 @@
+h3 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.post {
+  background-color: rgb(245, 245, 245);
+  box-shadow: 4px 4px 5px #00000099;
+  text-align: left;
+}
+.container {
+  padding: 30px;
+}
+.comment {
+  background-color: #15223b;
+  padding: 7px;
+}
+.comments {
+  background-color: rgb(245, 245, 245);
+}
+.smallLine {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  color: #000;
+}
+.smallLineNew {
+  background: #15223b;
+  color: #fff;
+}
+.smallLine > div {
+  width: 50%;
+}
+
+.smallLineIcons {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  color: #000;
+}
+
+.smallLineIcons > div {
+  width: 50%;
+}
+
+.btnDarkWhite {
+  color: white;
+  background-color: #15223b;
+}
+.icons {
+  margin-left: 7.5px;
+  margin-right: 7.5px;
+}
+.post > h5 {
+  text-align: center;
+}
+.forms {
+  display: flex;
+  flex-direction: row;
+}
+.form {
+  margin-left: 35%;
+  width: 30%;
+}
+
+.textPost {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.smallLineIcons {
+  padding: 7px;
+}
