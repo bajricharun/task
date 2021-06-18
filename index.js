@@ -1,6 +1,7 @@
 var express = require('express');
 var cors = require('cors');
 const jwt = require("jsonwebtoken");
+const path = require("path")
 
 var bodyParser = require("body-parser");
 var app = express();
@@ -23,6 +24,12 @@ app.use('/users', Users);
 app.use('/questions', Questions);
 app.use('/comments', Comments);
 app.use('/likes', Likes);
+app.use(express.static(path.join(__dirname, "client", "build")));
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "client", "build", "index.html"));
+});
+
+
 app.listen(port, function() {
     console.log("Server is on port: " + port);
 })
