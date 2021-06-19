@@ -36,8 +36,8 @@ class Landing extends Component {
     }
 
     posts(new_question).then(res => {
-      if (res) {
-        this.props.history.push('/profile')
+      if (res) {      
+       if(res){window.location.reload();}
       }
     })
   }
