@@ -57,7 +57,7 @@ class Landing extends Component {
 componentDidMount(){
   fetch(API)
   .then(response => response.json())
-  .then(data => {data = concat(data); this.setState({hits:data}); console.log(data)})
+  .then(data => {this.setState({hits:data}); console.log(data)})
 }
   render() {
     const userInput = (
