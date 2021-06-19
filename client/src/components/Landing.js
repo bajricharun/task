@@ -48,8 +48,9 @@ class Landing extends Component {
       user_id: this.state.user_id
     }
     comments(new_comment).then(res => {
-      if(res){window.location.reload();}
+      window.location.reload();
     })
+   window.location.reload();
   }
 
 componentDidMount(){
