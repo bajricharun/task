@@ -37,7 +37,7 @@ class Landing extends Component {
 
     posts(new_question).then(res => {
       if (res) {
-        this.props.history.push('/')
+        this.props.history.push('/profile')
       }
     })
   }
@@ -49,8 +49,7 @@ class Landing extends Component {
       user_id: this.state.user_id
     }
     comments(new_comment).then(res => {
-      if(res)
-        this.props.history.push('/')
+      if(res){window.location.reload();}
     })
   }
 
