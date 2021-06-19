@@ -111,18 +111,7 @@ componentDidMount(){
             
         <h3>Latest Questions</h3>
         <div className='row'>
-          {
-            this.state.hits.map(hit =>
-                <div className="post col-md-10 mt-5 mx-auto">
-                    <h5>{hit.questionTitle}</h5>
-                    <p>Date posted: {hit.createdAt}</p>
-                      <Link to={`/post/${hit.id}`} className="linked">
-                        Read more...
-                      </Link>
-                    <br/>
-                </div>
-              )
-          }
+          
         </div>
       </div>
       </div>
