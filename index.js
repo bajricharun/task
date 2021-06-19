@@ -24,7 +24,7 @@ app.use('/comments', Comments);
 app.use('/likes', Likes);
 app.use(express.static(path.join(__dirname, "client", "build")));
 app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "client", "src", "index.html"));
+    res.sendFile(path.join(__dirname, "client", "build", "index.html"));
 });
 
 
