@@ -57,6 +57,7 @@ questions.post("/showMine", (req,res) => {
     Question.findAll({
         where: {
             user_id:  userId,
+            order: [ ["id", "DESC"] ],
         }
     }).then(post => {
         if (post) {
