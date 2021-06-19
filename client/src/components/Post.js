@@ -33,6 +33,7 @@ class Post extends Component {
       post_id:this.state.ID
      }
      like(new_like)
+    window.location.reload();
    }
 
   onChange(e) {
@@ -45,6 +46,7 @@ class Post extends Component {
        questionTitle: this.state.questionTitle
      }
      edit(edits);
+    window.location.reload();
    }
   commentFunction(e) {
     e.preventDefault()
@@ -54,6 +56,7 @@ class Post extends Component {
       user_id: this.state.user_id
     }
     comments(new_comment)
+   window.location.reload();
   }
 
   changeComment(e) {
