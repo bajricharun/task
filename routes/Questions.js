@@ -37,7 +37,7 @@ questions.post("/create", (req, res) => {
 questions.get("/showAll", (req, res) => {
    Question.findAll({
         limit: 20,
-        order: ["createdAt", "DESC"],
+        order: ["id", "DESC"],
     }).then(post => {
         if (post) {
             res.json(post);
