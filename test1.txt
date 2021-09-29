@@ -1,0 +1,26 @@
+    <div class="row">
+        <div class="cell s1" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out1.jpg&quot;); background-size: 575px; background-position: 100% 99.9%; background-repeat: no-repeat;">
+        </div>
+        <div class="cell s2" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out2.jpg&quot;); background-size: 238px; background-position: 0px 99.9%; background-repeat: repeat-x;">
+        </div>
+        <div class="cell s3" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out3.jpg&quot;); background-size: 581px; background-position: 0px 99.9%; background-repeat: no-repeat;">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="cell s4" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out4.jpg&quot;); background-size: 575px; background-position: 100% 99.9%; background-repeat: no-repeat;">
+        </div>
+        <div class="cell s5 image" style="width: 128.548px; height: 245.69px;">
+            <img src="/rest/image/v2/eyJrZXkiOiJjNWVlOGMzMGJjYzc4OTQ1ZGZjYjFmYTdmNzdmZDJiMyIsImxhbmciOiJlbiIsInJlZmVyZW5jZU51bWJlciI6bnVsbCwibW9kZWwiOiJBTVNURVJEQU0iLCJmcmFtZSI6eyJ0eXBlIjoiU0lOR0xFIiwiY29sb3JDb2RlIjoiUkFMIDUwMDMiLCJleHRlbnNpb25Qcm9maWxlTGVmdCI6W10sImV4dGVuc2lvblByb2ZpbGVSaWdodCI6W10sImV4dGVuc2lvblByb2ZpbGVUb3AiOltdfSwicGFuZWwiOnsiY29sb3JDb2RlIjoiUkFMIDUwMDMiLCJnbGFzcyI6eyJ0eXBlIjoibW90aXZlIiwiY29kZSI6IkRQQS1BTTMyRSJ9LCJ3aWR0aCI6MTEwMCwiaGVpZ2h0IjoyMTAwLCJwYW5lbDJXaWR0aCI6MTEwMH0sImxheWVyIjpbeyJuYW1lIjoiYXBwbGljYXRpb24iLCJjb2xvckNvZGUiOiJFZGVsc3RhaGxfcG9saWVydCIsInNhbWVBc1BhbmVsIjpmYWxzZX1dLCJlcXVpcG1lbnQiOlt7InR5cGUiOiJIQU5ETEUiLCJjb2RlIjoiRE9TIDk1MCIsIm9yZGVyIjoxMDB9LHsidHlwZSI6InJvc2V0dGUiLCJjb2RlIjoiUk9QIDUwIiwib3JkZXIiOjkwfSx7InR5cGUiOiJoaW5nZSIsImNvZGUiOiJTdGFuZGFyZCIsIm9yZGVyIjoxNDB9XSwiY2xpZW50Ijp7fSwidXBsb2FkSW1hZ2UiOnt9LCJjdXJyZW50UHJvZmlsZSI6IkFGTCIsIndpbmciOiJoaWRkZW4iLCJyZXNldFByb2ZpbGUiOmZhbHNlLCJpc0NvbG9yUGFydENoYW5nZWQiOmZhbHNlLCJtYXRlcmlhbCI6ImFsdSIsImJsaW5kUHJvZmlsZSI6ZmFsc2UsImZpcnN0TG9hZCI6ZmFsc2UsImhpZGVHcm9vdmVzIjpmYWxzZSwiZGVzaWduQ29kZSI6bnVsbCwiZG9vclBhY2thZ2UiOm51bGwsImRvb3JEaW1lbnNpb25zQ2hhbmdlZCI6ZmFsc2UsImN1c3RvbVJlbmRlclR5cGUiOm51bGwsImRpbiI6InJpZ2h0X2luc2lkZSIsIndhbGwiOnsidmlzaWJsZSI6dHJ1ZSwiY29sb3IiOiJmNWY1ZjUifSwiaXRlbXMiOm51bGwsImVuY29kaW5nVHlwZSI6IlBORzgifQ==/22582f607125c6de9d8a39e0db6edea35557cb5b41f70f3189131e4543d83026" draggable="false" style="width: 100%; height: 100%;">
+        </div>
+        <div class="cell s6" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out6.jpg&quot;); background-size: 581px; background-position: 0px 99.9%; background-repeat: no-repeat;">
+        </div>
+    </div>
+    <div class="row footer">
+        <div class="cell s7" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out7.jpg&quot;); background-size: 575px; background-position: 100% 0px; background-repeat: no-repeat;">
+        </div>
+        <div class="cell s8" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out8.jpg&quot;); background-size: 238px; background-position: 0% 0px; background-repeat: repeat-x;">
+        </div>
+        <div class="cell s9" style="background-image: url(&quot;https://static.konfigurator.si/images/eutherm2/house/out9.jpg&quot;); background-size: 581px; background-position: 0px 0px; background-repeat: no-repeat;">
+        </div>
+    </div>
